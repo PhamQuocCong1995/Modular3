@@ -1001,7 +1001,6 @@ a {
 
 .article-list__item {
     border-radius: 40px;
-    overflow: hidden;
     transition: 0.25s;
 }
 
